@@ -1,4 +1,4 @@
-# BFS-Tic-Tac-Toe 光度搜索算法井字棋AI
+# BFS-Tic-Tac-Toe 广度搜索算法井字棋AI
 
-没啥可说的，BFS让电脑玩井字棋而已
+利用BFS算法让电脑陪你玩井字棋
 BFS.java 原始版本的游戏
